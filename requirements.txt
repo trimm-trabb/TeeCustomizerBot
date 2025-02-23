@@ -1,0 +1,6 @@
+chainlit==2.2.1
+chromadb==0.6.3
+langchain==0.3.19
+numpy==1.26.4
+sentence-transformers==3.4.1
+openai==1.63.2
