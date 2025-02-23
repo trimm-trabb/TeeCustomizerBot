@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 7860
 
 # Run Chainlit on startup
-CMD ["chainlit", "run", "app.py", "-h", "0.0.0.0", "-p", "7860"]
+CMD chainlit run app.py 
